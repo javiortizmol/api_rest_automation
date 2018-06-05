@@ -1,0 +1,6 @@
+
+regression.test.api.rest/test-output/Default suite/testng-failed.xml
+*.html
+regression.test.api.rest/test-output/Failed suite [Failed suite [Default suite]]/Default test(failed)(failed).xml
+regression.test.api.rest/test-output/Failed suite [Failed suite [Default suite]]/testng-failed.xml
+regression.test.api.rest/test-output/Failed suite [Failed suite [Default suite]]/Default test(failed)(failed).xml
